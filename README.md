@@ -7,18 +7,18 @@ Disclaimer: being young, I didn't know about code maintainability or refactoring
 ## Screenshots
 
 ### Title Screen of Factionet
-![alt text](https://github.com/adam-p/markdown-here/tree/master/images/one.png "Title Screen of Factionet")
+![alt text](https://raw.githubusercontent.com/margeobur/FactioNet/master/images/one.png "Title Screen of Factionet")
 
 ### Server session selection screen
-![alt text](https://github.com/adam-p/markdown-here/tree/master/images/two.png "Server session selection screen")
+![alt text](https://raw.githubusercontent.com/margeobur/FactioNet/master/images/two.png "Server session selection screen")
 Servers could save chat sessions (iirc)
 
 ### Entering the ID of the Host to join
-![alt text](https://github.com/adam-p/markdown-here/tree/master/images/three.png "Entering the ID of the Host to join")
+![alt text](https://raw.githubusercontent.com/margeobur/FactioNet/master/images/three.png "Entering the ID of the Host to join")
 
 ### Entering the password to join
-![alt text](https://github.com/adam-p/markdown-here/tree/master/images/four.png "Entering the password to join")
+![alt text](https://raw.githubusercontent.com/margeobur/FactioNet/master/images/four.png "Entering the password to join")
 
 ### What the actual chat GUI looked like
-![alt text](https://github.com/adam-p/markdown-here/tree/master/images/five.png "What the actual chat GUI looked like")
+![alt text](https://raw.githubusercontent.com/margeobur/FactioNet/master/images/five.png "What the actual chat GUI looked like")
 As you can see, the virtual screen was very simple, but you could achieve some pretty neat effects
